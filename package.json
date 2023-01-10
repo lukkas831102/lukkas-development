@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "discord.py": "^1.0.0",
+    "license": "^1.0.3",
+    "nvm": "^0.0.4"
+  }
+}
